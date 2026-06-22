@@ -15,7 +15,7 @@ This project focuses on the end-to-end data preparation, cleaning, and visual re
 ## Promotional & Discount Strategy Analysis
 
 <details>
-<summary><b> 1. The Problem</b></summary>
+<b> 1. The Problem (Click to expand)</b>
 
 Product categories exhibit fragmented promotional responses, meaning customers in different segments prefer entirely different incentive structures (Coupon Discounts vs. Free Delivery). A one-size-fits-all promotional framework leads to revenue leakage and inefficient marketing spend.
 </details>
