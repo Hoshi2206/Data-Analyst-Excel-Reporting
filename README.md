@@ -18,6 +18,8 @@ This project focuses on the end-to-end data preparation, cleaning, and visual re
 
 ## Promotional & Discount Strategy Analysis
 
+## Promotional & Discount Strategy Analysis
+
 <details>
 <summary><b> 1. The Problem (Click to expand)</b></summary>
 
@@ -28,8 +30,8 @@ Product categories exhibit fragmented promotional responses, meaning customers i
 <details>
 <summary><b> 2. Key Insights (Click to expand)</b></summary>
 
-* **Inelastic & Necessity-Driven Segments:** Customers purchasing *Office & Batteries* and *Printers & Ink* exhibit low promotional sensitivity. Because these items are functional workplace necessities, demand remains stable regardless of financial incentives.
-* **Geographical Pull of Premium Segments:** *Apple Ecosystem* consumers show an overwhelming preference for **Free Delivery** over coupon discounts. This strongly implies a distinct customer demographic—likely operating in regions where high shipping fees act as a major barrier to conversion.
+* **Inelastic & Necessity-Driven Segments:** Customers purchasing *Office & Batteries* and *Printers & Ink* exhibit low promotional sensitivity. Because these items are workplace necessities, demand remains stable regardless of financial incentives.
+* **The Shipping coupon:** *Apple Ecosystem* consumers show an overwhelming preference for **Free Delivery** over coupon discounts. Without explicit customer location data, this pattern strongly serves as a **hypothesis** that the target demographic faces unique shipping fee barriers or high baseline delivery friction, making shipping incentives far more enticing than standalone product discounts.
 * **Coupon-Sensitive Segments:** In contrast, the *PC Components & Storage* segment is highly responsive to direct price slashes via **Coupon Discounts**.
 
 </details>
@@ -38,9 +40,10 @@ Product categories exhibit fragmented promotional responses, meaning customers i
 <summary><b> 3. Strategic Recommendations (Click to expand)</b></summary>
 
 * **Protect Margins on Necessities:** Systematically scale back both coupon and delivery promotions for *Office & Batteries* and *Printers & Ink* to directly increase net profit margins without hurting sales volume.
-* **Optimise High-Value Conversion:** Maintain and aggressively market "Free Delivery" banners specifically for premium tech segments like the *Apple Ecosystem* to counter geographical shipping friction.
+* **Hypothesis Testing via Targeted Marketing:** Validate the shipping friction hypothesis by running an A/B test on premium tech segments (like the *Apple Ecosystem*), selectively altering "Free Delivery" visibility to isolate whether delivery pricing is the definitive driver of high-value conversions.
 * **Reallocate Promotional Capital:** Shift the budget saved from the office supplies segment to boost targeted **Coupon Discounts** for *PC Components & Storage* to maximize sales velocity.
 
+</details>
 </details>
 
 ## Ratings Cliff & Consumer Behavior Analysis
