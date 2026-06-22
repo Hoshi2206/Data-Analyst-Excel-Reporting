@@ -3,7 +3,7 @@ End-to-end data preparation and executive reporting project in Microsoft Excel u
 
 # Amazon Products Sales Analysis (Excel Dashboard)
 
-![Uploading image.png…]()
+<img width="1627" height="1147" alt="image" src="https://github.com/user-attachments/assets/d05834dd-a0c2-4fda-811e-0169886def94" />
 
 ## Project Overview
 This project focuses on the end-to-end data preparation, cleaning, and visual reporting of an Amazon product sales dataset containing over 42,000 items. Using **Microsoft Excel exclusively**, I transformed a messy, uncleaned dataset into an interactive executive dashboard to uncover product performance, pricing strategies, and customer engagement metrics.
