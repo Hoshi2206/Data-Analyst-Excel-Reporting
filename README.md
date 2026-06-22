@@ -38,3 +38,29 @@ Product categories exhibit fragmented promotional responses, meaning customers i
 * **Reallocate Promotional Capital:** Shift the budget saved from the office supplies segment to boost targeted **Coupon Discounts** for *PC Components & Storage* to maximize sales velocity.
 
 </details>
+
+## 📉 Ratings Cliff & Consumer Behavior Analysis
+
+<details>
+<summary><b> 1. The Problem (Click to expand)</b></summary>
+
+Product conversions exhibit an aggressive algorithmic and psychological "cliff." When a product's average rating drops below the **4.0 threshold**, consumer conversion rates and purchase volume experience an absolute collapse, severely impacting platform GMV (Gross Merchandise Volume).
+
+</details>
+
+<details>
+<summary><b> 2. Key Insights (Click to expand)</b></summary>
+
+* **The 4.0 Critical Threshold:** Sales volume remains healthy between the 4.1 and 4.8 rating bands, but drops to near-zero once a product hits 4.0 or lower.
+* **The High-Tier Premium Paradox:** Interestingly, items with near-perfect ratings (**4.9 and 5.0**) display surprisingly low transaction volumes. Further data cross-referencing reveals that these top-tier rated items carry the **highest average unit prices** on the platform. The lower volume is not due to poor reception, but because these are premium, high-ticket items with a naturally smaller, highly targeted buyer pool.
+
+</details>
+
+<details>
+<summary><b> 3. Strategic Recommendations (Click to expand)</b></summary>
+
+* **Implement Automated Merchant Alerts:** Develop an early-warning system in the merchant portal that flags products sliding down toward a 4.1 rating, prompting sellers to address customer friction before hitting the 4.0 conversion cliff.
+* **Establish Seller Quality Governance:** Introduce strict compliance policies for underperforming merchants. Sellers who consistently allow products to drop below a 3.5 rating should face search-index deprioritization or temporary listing suspension to protect overall customer trust.
+* **Premium Tier Marketing:** Since 4.9 and 5.0 items represent high-margin, high-price luxury segments, market them via exclusive "Premium/Verified" banners rather than expecting high organic volume, shifting the strategy from mass volume to margin maximization.
+
+</details>
