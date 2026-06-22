@@ -44,7 +44,7 @@ Product categories exhibit fragmented promotional responses, meaning customers i
 <details>
 <summary><b> 1. The Problem (Click to expand)</b></summary>
 
-Product conversions exhibit an aggressive algorithmic and psychological "cliff." When a product's average rating drops below the **4.0 threshold**, consumer conversion rates and purchase volume experience an absolute collapse, severely impacting platform GMV (Gross Merchandise Volume).
+When a product's average rating drops below the **4.0 threshold**, consumer conversion rates and purchase volume experience an absolute collapse, severely impacting platform GMV (Gross Merchandise Volume).
 
 </details>
 
@@ -61,6 +61,5 @@ Product conversions exhibit an aggressive algorithmic and psychological "cliff."
 
 * **Implement Automated Merchant Alerts:** Develop an early-warning system in the merchant portal that flags products sliding down toward a 4.1 rating, prompting sellers to address customer friction before hitting the 4.0 conversion cliff.
 * **Establish Seller Quality Governance:** Introduce strict compliance policies for underperforming merchants. Sellers who consistently allow products to drop below a 3.5 rating should face search-index deprioritization or temporary listing suspension to protect overall customer trust.
-* **Premium Tier Marketing:** Since 4.9 and 5.0 items represent high-margin, high-price luxury segments, market them via exclusive "Premium/Verified" banners rather than expecting high organic volume, shifting the strategy from mass volume to margin maximization.
 
 </details>
