@@ -96,7 +96,7 @@ The business exhibits a high level of **revenue concentration risk**, where a ma
 
 </details>
 
-## 📣 Paid vs. Organic Advertisement Performance
+##Paid vs. Organic Advertisement Performance
 
 <details>
 <summary><b> 1. The Problem (Click to expand)</b></summary>
