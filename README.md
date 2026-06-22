@@ -95,3 +95,30 @@ The business exhibits a high level of **revenue concentration risk**, where a ma
 * **Diversify Supplier Networks:** Form secondary sourcing partnerships for high-dependency components to mitigate the risk of a single point of failure in the supply chain.
 
 </details>
+
+## 📣 Paid vs. Organic Advertisement Performance
+
+<details>
+<summary><b> 1. The Problem (Click to expand)</b></summary>
+
+The platform displays heavy volume variations between sponsored and organic traffic. However, because the raw dataset lacks financial advertising attributes (such as Cost-Per-Click or total campaign fees), the business faces blind spots regarding true net profitability and marketing efficiency.
+
+</details>
+
+<details>
+<summary><b> 2. Key Insights & Constraints (Click to expand)</b></summary>
+
+Based on the performance metrics in `image_8f1065.png` and `image_8f10ab.png`:
+* **High-Volume Revenue Anchors:** The heavily sponsored segments serve as the primary revenue drivers for the platform. *Office & Batteries* generates **$61.76M** (2.47M units) and *Printers & Ink* pulls in **$100.04M** (1.41M units). This explicitly proves the advertising framework successfully scales top-line customer reach.
+* **The Net Profit Margin Hypothesis:** Because *Office & Batteries* requires 8,436.05 sponsored units compared to only 3,484.05 organic units, the business is highly dependent on paid traffic. **Due to the lack of specific ad fee data, we must hypothesize** that if customer acquisition costs (CAC) follow industry-standard averages, the true net profit margins for these high-performing categories may be heavily compressed by hidden marketing overhead.
+
+</details>
+
+<details>
+<summary><b> 3. Strategic Recommendations (Click to expand)</b></summary>
+
+* **Maintain Current Paid Baselines:** Because these categories anchor our largest revenue pools ($61.76M and $100.04M), maintain current campaign settings to protect top-line cash flow until cost metrics are available.
+* **Initiate a Data Infrastructure Request:** Partner with the data engineering or marketing teams to ingest ad spend/fee metrics into the database. This will allow the data model to transition from a top-line revenue view to a true Return on Ad Spend (ROAS) and net profitability analysis.
+* **Proactive Organic SEO Testing:** To hedge against the hypothesis of compressed margins, begin low-cost organic search optimization (SEO) targeting for *Office & Batteries* keywords to naturally lift organic volume.
+
+</details>
