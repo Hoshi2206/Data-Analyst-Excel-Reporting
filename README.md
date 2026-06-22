@@ -8,6 +8,15 @@ End-to-end data preparation and executive reporting project in Microsoft Excel u
 ## Project Overview
 This project focuses on the end-to-end data preparation, cleaning, and visual reporting of an Amazon product sales dataset containing over 42,000 items. Using **Microsoft Excel exclusively**, I transformed a messy, uncleaned dataset into an interactive executive dashboard to uncover product performance, pricing strategies, and customer engagement metrics.
 
+## Data Source & Reference
+
+The analysis and dashboard built in this project are powered by the following open-source dataset:
+
+*   **Dataset Title:** Amazon Products Sales Dataset (42k+ Items)
+*   **Source:** [Kaggle Dataset Repository](https://www.kaggle.com/datasets/ikramshah512/amazon-products-sales-dataset-42k-items-2025?select=amazon_products_sales_data_uncleaned.csv)
+*   **Dataset Creator:** Ikram Shah
+*   **Scope:** 42,000+ rows of uncleaned, real-world Amazon e-commerce product listings containing categorical variables, top-line performance metrics, and fragmented promotional attributes.
+
 ## Tech Stack & Skills Showcased
 * **Data Organization:** Sorting, filtering, and cleaning structural inconsistencies across 42,000+ rows of messy data.
 * **Data Summarization:** Building dynamic **Excel Pivot Tables** to aggregate large-scale product revenue and quantities.
