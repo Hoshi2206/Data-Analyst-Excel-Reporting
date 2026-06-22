@@ -18,8 +18,6 @@ This project focuses on the end-to-end data preparation, cleaning, and visual re
 
 ## Promotional & Discount Strategy Analysis
 
-## Promotional & Discount Strategy Analysis
-
 <details>
 <summary><b> 1. The Problem (Click to expand)</b></summary>
 
