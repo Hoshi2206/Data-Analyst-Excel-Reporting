@@ -39,7 +39,7 @@ Product categories exhibit fragmented promotional responses, meaning customers i
 
 </details>
 
-## 📉 Ratings Cliff & Consumer Behavior Analysis
+## Ratings Cliff & Consumer Behavior Analysis
 
 <details>
 <summary><b> 1. The Problem (Click to expand)</b></summary>
@@ -61,5 +61,30 @@ When a product's average rating drops below the **4.0 threshold**, consumer conv
 
 * **Implement Automated Merchant Alerts:** Develop an early-warning system in the merchant portal that flags products sliding down toward a 4.1 rating, prompting sellers to address customer friction before hitting the 4.0 conversion cliff.
 * **Establish Seller Quality Governance:** Introduce strict compliance policies for underperforming merchants. Sellers who consistently allow products to drop below a 3.5 rating should face search-index deprioritization or temporary listing suspension to protect overall customer trust.
+
+</details>
+
+## Sales Dependency & Revenue Concentration Risk
+
+<details>
+<summary><b> 1. The Problem (Click to expand)</b></summary>
+
+The business exhibits a high level of **revenue concentration risk**, where a massive portion of total volume and earnings is dependent on just a few critical product categories. If any of these top-performing categories experience a supply chain disruption or stockout, it will trigger an immediate downfall in platform revenue and damage customer fulfillment satisfaction.
+
+</details>
+
+<details>
+<summary><b>2. Key Insights (Click to expand)</b></summary>
+
+* **Filtering the Noise (Other Items):** While the *Other Items* category shows high volume, it represents an aggregate of various unrelated sub-categories. Therefore, its risk is naturally diversified and is excluded from the immediate threat zone.
+* **The High-Risk:** The true operational vulnerability lies in the **Apple Ecosystem** and **Printers & Ink** categories. These segments represent concentrated pillars of the store's total volume. Because of their high sales velocity, any inventory shortage in these specific categories will disproportionately harm the business's bottom-line financial health.
+
+</details>
+
+<details>
+<summary><b> 3. Strategic Recommendations (Click to expand)</b></summary>
+
+* **Establish Safety Stock Buffers:** Implement a strict "Safety Stock" threshold for the *Apple Ecosystem* and *Printers & Ink* segments, ensuring minimum inventory levels are maintained to absorb sudden demand spikes or shipping delays.
+* **Diversify Supplier Networks:** Form secondary sourcing partnerships for high-dependency components to mitigate the risk of a single point of failure in the supply chain.
 
 </details>
