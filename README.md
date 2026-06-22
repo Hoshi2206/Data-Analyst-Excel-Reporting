@@ -16,8 +16,8 @@ This project focuses on the end-to-end data preparation, cleaning, and visual re
 
 <details>
 <summary><b> 1. The Problem (Click to expand)</b><summary>
-
-Product categories exhibit fragmented promotional responses, meaning customers in different segments prefer entirely different incentive structures (Coupon Discounts vs. Free Delivery). A one-size-fits-all promotional framework leads to revenue leakage and inefficient marketing spend.
+  
+Product categories exhibit fragmented promotional responses, meaning customers across segments prefer entirely different incentive structures (Coupon Discounts vs Free Delivery). A one-size-fits-all promotional framework leads to revenue leakage and inefficient marketing spend.
 </details>
 
 <details>
@@ -32,6 +32,6 @@ Product categories exhibit fragmented promotional responses, meaning customers i
 <summary><b>3. Strategic Recommendations (Click to expand)</b></summary>
 
 * **Protect Margins on Necessities:** Systematically scale back both coupon and delivery promotions for *Office & Batteries* and *Printers & Ink* to directly increase net profit margins without hurting sales volume.
-* **Optimize High-Value Conversion:** Maintain and aggressively market "Free Delivery" banners specifically for premium tech segments like the *Apple Ecosystem* to counter geographical shipping friction.
+* **Optimise High-Value Conversion:** Maintain and aggressively market "Free Delivery" banners specifically for premium tech segments like the *Apple Ecosystem* to counter geographical shipping friction.
 * **Reallocate Promotional Capital:** Shift the budget saved from the office supplies segment to boost targeted **Coupon Discounts** for *PC Components & Storage* to maximize sales velocity.
 </details>
