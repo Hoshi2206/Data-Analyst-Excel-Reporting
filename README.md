@@ -38,8 +38,8 @@ Product categories exhibit fragmented promotional responses, meaning customers i
 <summary><b> 2. Key Insights (Click to expand)</b></summary>
 
 * **Inelastic & Necessity-Driven Segments:** Customers purchasing *Office & Batteries* and *Printers & Ink* exhibit low promotional sensitivity. Because these items are workplace necessities, demand remains stable regardless of financial incentives.
-* **The Shipping coupon:** *Apple Ecosystem* consumers show an overwhelming preference for **Free Delivery** over coupon discounts. Without explicit customer location data, this pattern strongly serves as a **hypothesis** that the target demographic faces unique shipping fee barriers or high baseline delivery friction, making shipping incentives far more enticing than standalone product discounts.
-* **Coupon-Sensitive Segments:** In contrast, the *PC Components & Storage* segment is highly responsive to direct price slashes via **Coupon Discounts**.
+* **The Shipping coupon:** *Apple Ecosystem* consumers show an overwhelming preference for **Free Delivery** over coupon discounts. Without actual customer location data, this pattern strongly serves as a **hypothesis** that the target demographic faces unique shipping fee barriers, making shipping incentives far more enticing than standalone product discounts.
+* **Coupon-Sensitive Segments:** the *PC Components & Storage* segment is highly responsive to direct price slashes via **Coupon Discounts**.
 
 </details>
 
@@ -48,7 +48,7 @@ Product categories exhibit fragmented promotional responses, meaning customers i
 
 * **Protect Margins on Necessities:** Systematically scale back both coupon and delivery promotions for *Office & Batteries* and *Printers & Ink* to directly increase net profit margins without hurting sales volume.
 * **Hypothesis Testing via Targeted Marketing:** Validate the shipping friction hypothesis by running an A/B test on premium tech segments (like the *Apple Ecosystem*), selectively altering "Free Delivery" visibility to isolate whether delivery pricing is the definitive driver of high-value conversions.
-* **Reallocate Promotional Capital:** Shift the budget saved from the office supplies segment to boost targeted **Coupon Discounts** for *PC Components & Storage* to maximize sales velocity.
+* **Reallocate Promotional Capital:** Shift the budget saved from the office supplies segment to boost targeted **Coupon Discounts** for *PC Components & Storage* to maximise sales.
 
 </details>
 </details>
@@ -58,8 +58,7 @@ Product categories exhibit fragmented promotional responses, meaning customers i
 <details>
 <summary><b> 1. The Problem (Click to expand)</b></summary>
 
-When a product's average rating drops below the **4.0 threshold**, consumer conversion rates and purchase volume experience an absolute collapse, severely impacting platform GMV (Gross Merchandise Volume).
-
+When a product's average rating drops below the **4.0 threshold**, consumer conversion rates and purchase volume experience an absolute collapse, severely impacting platform purchasing volume.
 </details>
 
 <details>
